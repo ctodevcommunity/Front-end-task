@@ -6,5 +6,7 @@ Task:
 
 Create the duplicate of the this page → https://www.stitchfix.com/women
 
+# Note: You should only make the women part of the page (the page which will open when you clikc the link)
+
 
 # Deadline: 25 June
