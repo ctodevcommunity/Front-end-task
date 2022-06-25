@@ -1,19 +1,7 @@
-# Getting Started with Create React App
+### Font
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I tried to find the exact font which is 'BrandonText', hopefully.
 
 ### `Packages`
 
-Packages that I used are styled-components (for styling) and material-ui (for icons)
+Packages that I used are styled-components (for styling) and material-ui (for icons).
